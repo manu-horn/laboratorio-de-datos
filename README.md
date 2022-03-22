@@ -9,3 +9,6 @@ Los archivos comprenden:
 -Parciales
 -Finales
 -etc.
+
+En la sección "starred" se encuentran los repos oficiales de
+dos libros de Python
